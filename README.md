@@ -1,2 +1,2 @@
-# Facator-Analyisis-R
+## FacatorAnalyisis in R
 Factor Analysis with R 
